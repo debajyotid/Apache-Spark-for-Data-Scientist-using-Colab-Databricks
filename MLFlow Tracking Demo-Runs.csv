@@ -1,0 +1,12 @@
+Run ID,Name,Source Type,Source Name,User,Status,max_depth,min_samples_split,n_neighbors,random_state,accuracy
+6f324a2b066b4ebebaea7b1c1c625345,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,5,5,,10,1
+3d7378f929cc4646a42013c149f627d5,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,1,5,,10,0.7111111111111111
+ad7079440dbf4be9b7dc50db958af75f,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,1,,,10,0.7111111111111111
+3cbc4f64b34e43a799d2339f5505c2b8,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,1,5,,10,0.7111111111111111
+d6face2d3e43457390ed2a2c10dc5ab2,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,1,,,10,0.7111111111111111
+1b2a654389d14834809a0a758a5409f3,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,,,2,,1
+cd5cccdcacb14f12a6856c0b0be3cf5b,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,,,5,,1
+c8503ab0209849fdbda4163567fd7b7e,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,,,,10,1
+e51f185158e848cc8432a0a6ee2676a8,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,,,2,,1
+2b5f5a3c5e934d129b9f611e71c01035,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,,,5,,1
+73d4eb2519fd4cac9264ee2b8d0dca7a,,NOTEBOOK,/Users/debajyoti.das.bookworm@gmail.com/MLFlow Tracking Demo,debajyoti.das.bookworm@gmail.com,FINISHED,,,,10,1
